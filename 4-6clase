@@ -1,0 +1,45 @@
+#clase del 28 de mayo
+def ingresarNumero(mensaje):
+    entrada = input(mensaje)
+    esentero = int(entrada)
+    return esEntero
+    def sumerNumeros(numero1,numero2)
+    sume = numerol+numero2
+    print(("la sumade estos numeros da " ,suma)
+    return suma
+    def menor(numero1 , numero2):
+        menor = numero1 < numero2 
+        if menor:
+        print(numero1," es menr que ",numero2)
+        return menor
+        def mayor(numero1,numero2):
+            mayor = numero1 > numero2
+            if mayor:
+                print(numero1,"es mayor que ,numero2)
+                return mayor
+                def igual(numero2, numero2)"
+                igual = numero1 == numero2")
+                if igual:
+                    print(numero1, " es igual que ",numero2)
+                    return igual 
+
+                    def  rango (empezar,parar,paso):
+                        for i in range(empezar,para,paso):
+                            print(i, end=",")
+
+                            def nombredefuncion(parametos,argumentos):
+                                numero1=ingresar numero("ingrese un numero")
+                                numero2=ingresarnumero("ingrese otro numero")
+                                sumarnumeros(numero1, numero2)
+                                menor(numero1,numero2)
+                                mayor(numero1,numero2)
+                                igual(numero1,numero2)
+                                rango(1,100,2)
+                                print("")
+                                ,,,
+                                lista=[elemento]=elemento*2
+                                print(lista[elemento],end=",")
+                                print("")
+                                ,,,
+                                nombredefuncion(esto es una funcion,",")
+                                "esto es un argumento")
